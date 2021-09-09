@@ -18,4 +18,18 @@
         * Uber 
         * Netflix
         * TikTok
-        *
+        * ...
+
+* 99.99% dos sites na web usam JavaScript
+* Linguagem obrigatória para quem programa o Front-end Web
+
+*Evolução*
+
+* A comunidade cresce cada vez mais e a linguagem está sempre evoluindo
+
+*O que vamos ver no curso?*
+- Tipos de daos
+- Variáveis
+- Funções
+- Condicionais
+- Estruturas de repetição
