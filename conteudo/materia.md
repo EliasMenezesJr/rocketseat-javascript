@@ -28,8 +28,18 @@
 * A comunidade cresce cada vez mais e a linguagem está sempre evoluindo
 
 *O que vamos ver no curso?*
-- Tipos de daos
+- Tipos de dados
 - Variáveis
 - Funções
 - Condicionais
 - Estruturas de repetição
+- ...
+
+*Como vai funcionar a disnânmica do curso?*
+
+- Treino de futbol
+- Treino de artes marciais
+
+* Conceitos e fundamentos
+* Prática
+* Revisão
