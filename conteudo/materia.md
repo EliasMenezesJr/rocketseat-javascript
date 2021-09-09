@@ -42,6 +42,8 @@
 * Conceitos e fundamentos
 * Prática
 * Revisão
+
 *---------------------------------*
+
 # Primeiros Passos:
 ## Sintaxe
