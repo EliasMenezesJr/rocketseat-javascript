@@ -1,6 +1,5 @@
 # Introdução 
 ## JavaScript
-
 *JavaScrip Core*
 
 * Linguagem de programação que roda no Navegador do úsuario (front-end)
@@ -43,3 +42,6 @@
 * Conceitos e fundamentos
 * Prática
 * Revisão
+
+# Primeiros Passos
+## Sintaxe
