@@ -36,7 +36,7 @@
 
 *Como vai funcionar a disnânmica do curso?*
 
-- Treino de futbol
+- Treino de futebol
 - Treino de artes marciais
 
 * Conceitos e fundamentos
