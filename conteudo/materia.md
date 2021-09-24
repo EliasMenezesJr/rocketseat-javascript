@@ -104,7 +104,6 @@
 33 // inteiros
 12.5 / reais - float
 NaN // Not a Number
-<<<<<<< HEAD
 Infinity // infinito
 
 ## Boolean
@@ -247,6 +246,83 @@ Conforme o ECMAScrip standard temos 9 tipos de dados:
         * camelCase
         * snake_case
         * Escrve em inglês
-=======
-Infinity // infinito
->>>>>>> 1e5a0e7f427340462b0a70a8db076f492b6a84d8
+
+*-----------------------------------------------------------------------------*
+
+# Praticando e avançando
+
+## Declaration assigment var
+
+```js
+    // variáveis e tipos de dados
+
+    // declaração or declaration
+    var name
+
+    // assigment or atribuição de valores
+
+    name = "mike"
+
+    // que tipo de dado foi colocado na variável 
+```
+
+
+## Agrupando declarações 
+
+```js
+    let age, isHuman
+    age = 18
+    isHuman = true
+```
+
+
+## Concatenando e interpolando variáveis
+
+```js
+    // escrita de texto + variáveis
+    // concatenando valores
+    console.log('O'+name+'tem'+age+'anos')
+    //interpolando valores com template literais or template strings
+    console.log(`O ${name} tem ${age} anos.`)
+```
+
+
+## Objects
+
+```js
+    const person = {
+        name: 'John',
+        age: 30,
+        weight: 88.6,
+        isAdmin: true
+    }
+
+    // propriedades do objectes
+    console.log(person.name)
+    console.log(`O ${person.name} tem ${person.age} anos, ${person.weight} de altura e ${person.isAdmin} admin.`)
+```
+
+
+## Array
+
+```js
+    // Array
+
+    const animals = [
+        'Lion',
+        'Monkey',
+        {
+            name: 'Cat',
+            age: 3
+        }
+    ]
+
+    // acessar valores dentro do Array
+    console.log(animals[1])
+
+    //quantidade
+    console.log(animals.length)
+
+    //objests dentro do array
+    console.log(animals[2].name)
+```
