@@ -104,7 +104,6 @@
 33 // inteiros
 12.5 / reais - float
 NaN // Not a Number
-<<<<<<< HEAD
 Infinity // infinito
 
 ## Boolean
@@ -246,7 +245,4 @@ Conforme o ECMAScrip standard temos 9 tipos de dados:
         * Que explique o que a variável é ou faz 
         * camelCase
         * snake_case
-        * Escrve em inglês
-=======
-Infinity // infinito
->>>>>>> 1e5a0e7f427340462b0a70a8db076f492b6a84d8
+        * Escreve em inglês
