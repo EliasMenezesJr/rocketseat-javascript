@@ -343,3 +343,12 @@ m 6.2
 
 ## Retornando valores dentro da função 
 m 6.3
+
+## Outras maneiras de entender funções
+m 6.4
+
+## Function scope
+m 6.5
+
+## Function Hoisting 
+m 6.6
