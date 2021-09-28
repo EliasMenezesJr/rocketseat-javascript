@@ -326,3 +326,20 @@ Conforme o ECMAScrip standard temos 9 tipos de dados:
     //objests dentro do array
     console.log(animals[2].name)
 ```
+
+## Exercícios 
+    Exercicos em 5- 5.6
+
+
+# Funções
+m6 
+
+
+## Functions 
+m 6.1    
+
+## Argumentos e parêmetros
+m 6.2
+
+## Retornando valores dentro da função 
+m 6.3
