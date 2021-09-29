@@ -352,3 +352,83 @@ m 6.5
 
 ## Function Hoisting 
 m 6.6
+
+## Arroy function
+m 6.7
+
+    ```js
+        const name = () => {
+            console.log('Mayk')
+        }
+    ```
+    função com a seta = arroy
+
+## Callcak Function
+m 6.8
+
+    passr uma função dentro de outra função pelos parametro
+    callback = chame de voltar 
+
+## Funções contrutoras - function contructor
+m 6.9 
+
+    funções que viram objetos
+
+
+# Manipulando dados
+m 7
+
+
+## Prototype 
+m 7.1
+
+## Type convercion coersion
+m 7.2
+
+## Strings em números
+m 7.3
+
+    Number(string) - string vc passa o frase em número ou uma variável do tipo string
+
+    String(number) - number vc passa um número ou uma variável do tipo number
+
+# Contando caracteres e dígitos-
+m 7.4
+
+    string.lenght - para saber a quantidade letras
+
+    ! Atenção, para saber a quantidade de dígitos de uma variável tipo nnumber, temque converte-lá para string primeiro
+
+    String(number).lenght
+
+
+## Casas decimais
+
+ ```js
+    let number = 456.1235
+
+    // tranformando em duas casas decimais e trocando ponto(.), por virgula(,)
+    number.toFixed(2).replace(".",",")
+ ```
+
+## Maiúsculas e minúsculas
+
+    ```js
+        let myName = "miyk"
+        console.log(myName.toLocaleUpperCase());
+
+        let myName2 = "MIYK"
+        console.log(myName.toLowerCase());
+    ```
+
+## Separando strings
+
+
+
+
+
+
+
+
+
+
