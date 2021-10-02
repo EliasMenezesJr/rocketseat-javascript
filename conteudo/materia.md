@@ -422,13 +422,35 @@ m 7.4
     ```
 
 ## Separando strings
+m 7.7
+
+    pegue uma frase e coloque na variável
+    pegue a variável e use a função split(), para separar a frase em array, passe no argumento da função split() onde vc quer separar cada palavra.
+    lembre-se de fazer td em outra variável
+
+    crie outra variável e pegue a anterior adicionando outra função, a join(), no argumento da join() passe o que quer usar para unir cada elemento do array.
+
+## Encontrando palavras em frases
+m 7.8 
+
+    crie uma variável e use a função includes(), passe como parametro e em strings qual palavra vc quer verificar se tem, a função é sensitivecase, retornará false se a mesma palavra estive com case diferente.
 
 
+## Criando array com construtor
+m 7.9
 
+    crie uma variavél com new Array("a","b","c")
+    também posso criar um array com X posições vazias new Array(10)
 
+## Elementos do Array
+m 7.9.1
 
+    .lenght
 
+## string para array 
+m 7.9.2
 
+    Array.from("PARLVRA")
 
-
-
+## Manipulando Arrays
+m 7.9.3
