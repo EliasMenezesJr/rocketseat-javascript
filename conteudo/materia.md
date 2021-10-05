@@ -454,3 +454,13 @@ m 7.9.2
 
 ## Manipulando Arrays
 m 7.9.3
+
+
+
+# Expressões e Operadores
+
+## Expressões e Operadores
+m 8.1
+
+## New 
+m 8.2
