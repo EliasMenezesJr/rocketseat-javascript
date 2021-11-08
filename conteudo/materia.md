@@ -464,3 +464,8 @@ m 8.1
 
 ## New 
 m 8.2
+
+    new
+
+    * left-hand-side expression 
+    * criar um novo objeto
