@@ -17,7 +17,7 @@ techs.shift();
 // pegar somente alguns elementos do arrays
 // console.log(techs.slice(1, 3));
 
-// remover 1 ou mais items em qualuqer posição do array  
+// remover 1 ou mais items em qualquer posição do array  
 // console.log(techs.splice(1, 2));
 
 // encontrar a posição de um elemento no array
